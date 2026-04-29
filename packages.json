@@ -1,0 +1,17 @@
+[
+    {
+        "package": "adlaplace",
+        "url": "https://github.com/eborgnine/adlaplace",
+        "subdir": "adlaplace"
+    },
+    {
+        "package": "adlaplaceExample",
+        "url": "https://github.com/eborgnine/adlaplace",
+        "subdir": "adlaplaceExample"
+    },
+    {
+        "package": "hpolcc",
+        "url": "https://github.com/eborgnine/adlaplace",
+        "subdir": "hpolcc"
+    }
+]
