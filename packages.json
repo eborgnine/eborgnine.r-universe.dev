@@ -16,29 +16,5 @@
     "url": "https://github.com/eborgnine/adlaplace",
     "subdir": "adlaplace",
     "branch": "main"
-  },
-  {
-    "package": "adlaplaceHgp",
-    "url": "https://github.com/eborgnine/adlaplace",
-    "subdir": "adlaplaceHgp",
-    "branch": "main"
-  },
-  {
-    "package": "adlaplaceExample",
-    "url": "https://github.com/eborgnine/adlaplace",
-    "subdir": "adlaplaceExample",
-    "branch": "main"
-  },
-  {
-    "package": "adlaplaceGrf",
-    "url": "https://github.com/eborgnine/adlaplace",
-    "subdir": "adlaplaceGrf",
-    "branch": "main"
-  },
-  {
-    "package": "hpolcc",
-    "url": "https://github.com/eborgnine/adlaplace",
-    "subdir": "hpolcc",
-    "branch": "main"
   }
 ]
