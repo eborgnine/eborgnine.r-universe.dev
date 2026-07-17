@@ -6,12 +6,6 @@
     "branch": "main"
   },
   {
-    "package": "admvn",
-    "url": "https://github.com/eborgnine/adlaplace",
-    "subdir": "admvn",
-    "branch": "main"
-  },
-  {
     "package": "adlaplace",
     "url": "https://github.com/eborgnine/adlaplace",
     "subdir": "adlaplace",
