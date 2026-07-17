@@ -2,36 +2,43 @@
   {
     "package": "RCppAD",
     "url": "https://github.com/eborgnine/adlaplace",
-    "subdir": "RCppAD"
+    "subdir": "RCppAD",
+    "branch": "main"
   },
   {
     "package": "admvn",
     "url": "https://github.com/eborgnine/adlaplace",
-    "subdir": "admvn"
+    "subdir": "admvn",
+    "branch": "main"
   },
   {
     "package": "adlaplace",
     "url": "https://github.com/eborgnine/adlaplace",
-    "subdir": "adlaplace"
+    "subdir": "adlaplace",
+    "branch": "main"
   },
   {
     "package": "adlaplaceHgp",
     "url": "https://github.com/eborgnine/adlaplace",
-    "subdir": "adlaplaceHgp"
+    "subdir": "adlaplaceHgp",
+    "branch": "main"
   },
   {
     "package": "adlaplaceExample",
     "url": "https://github.com/eborgnine/adlaplace",
-    "subdir": "adlaplaceExample"
+    "subdir": "adlaplaceExample",
+    "branch": "main"
   },
   {
     "package": "adlaplaceGrf",
     "url": "https://github.com/eborgnine/adlaplace",
-    "subdir": "adlaplaceGrf"
+    "subdir": "adlaplaceGrf",
+    "branch": "main"
   },
   {
     "package": "hpolcc",
     "url": "https://github.com/eborgnine/adlaplace",
-    "subdir": "hpolcc"
+    "subdir": "hpolcc",
+    "branch": "main"
   }
 ]
