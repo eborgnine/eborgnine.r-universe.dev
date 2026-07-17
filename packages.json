@@ -5,24 +5,24 @@
     "subdir": "RCppAD"
   },
   {
-    "package": "adlaplace",
-    "url": "https://github.com/eborgnine/adlaplace",
-    "subdir": "adlaplace"
-  },
-  {
     "package": "admvn",
     "url": "https://github.com/eborgnine/adlaplace",
     "subdir": "admvn"
   },
   {
-    "package": "adlaplaceExample",
+    "package": "adlaplace",
     "url": "https://github.com/eborgnine/adlaplace",
-    "subdir": "adlaplaceExample"
+    "subdir": "adlaplace"
   },
   {
     "package": "adlaplaceHgp",
     "url": "https://github.com/eborgnine/adlaplace",
     "subdir": "adlaplaceHgp"
+  },
+  {
+    "package": "adlaplaceExample",
+    "url": "https://github.com/eborgnine/adlaplace",
+    "subdir": "adlaplaceExample"
   },
   {
     "package": "adlaplaceGrf",
