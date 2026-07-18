@@ -24,9 +24,9 @@
     "branch": "main"
   },
   {
-    "package": "adlaplaceGrf",
+    "package": "adlaplaceFem",
     "url": "https://github.com/eborgnine/adlaplace",
-    "subdir": "adlaplaceGrf",
+    "subdir": "adlaplaceFem",
     "branch": "main"
   },
   {
