@@ -34,5 +34,20 @@
     "url": "https://github.com/eborgnine/adlaplace",
     "subdir": "hpolcc",
     "branch": "main"
+  },
+  {
+    "package": "diseasemapping",
+    "url": "https://github.com/r-forge/diseasemapping",
+    "subdir": "pkg/diseasemapping"
+  },
+  {
+    "package": "geostatsp",
+    "url": "https://github.com/r-forge/diseasemapping",
+    "subdir": "pkg/geostatsp"
+  },
+  {
+    "package": "mapmisc",
+    "url": "https://github.com/r-forge/diseasemapping",
+    "subdir": "pkg/mapmiscTerra"
   }
 ]
